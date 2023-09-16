@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: none;
+  /* Hiding the cursor */
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Monospace, Helvetica, sans-serif;
+}
+
+p {
+  padding: 20px;
+  color: #111111;
+  text-align: center;
+  font-size: 20px;
+  z-index: 2;
+}
+
+h1 {
+  font-family: Monospace, Helvetica, sans-serif;
+  color: #111111;
+  text-align: center;
+  font-size: 50px;
+  z-index: 2;
+}
+
+/* CURSOR */
+#square {
+  width: 250px;
+  height: 250px;
+  background-color: white;
+
+  filter: blur(5px);
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  color: white;
+  border-radius: 50%;
+  z-index: 1;
+  /* I have NO IDEA THE EXSISTENCE OF THIS, but this is exactly what I wanted  it took me some 
+  (well, actually A LOT of time to figuer this out..*/
+}
+
+.buttons {
+  width: 100%;
+  justify-content: center;
+  z-index: 2;
+}
+
+ul {
+  width: 100%;
+  margin: 0%;
+  list-style: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+  justify-content: center;
+  /* z-index: 2; */
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+li a {
+  font-family: Monospace, Helvetica, sans-serif;
+  display: block;
+  color: #111111;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.5s;
+  border-radius: 12px;
+}
+
+li a:hover {
+  transition: 0.5s;
+  background-color: white;
+}
+
+button {
+  display: flex;
+}
+
+/* Background */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  background-color: #111111;
+  /* background-color: gray;  */
+  transition: 0.5s;
+}

@@ -1,0 +1,111 @@
+Here's a text file of what I was thinking when I read through the reading.
+
+" " <-- Whatever is in this is a quote from the website.
+  - <-- Whatever is behind this is what I was thinking, basically my response to the quote.
+Disclaimer I have no idea if anyone will ever read this part, but on this page, it includes some (actually a lot) of my wild and probably not entirely accurate thoughts (and probably a lot of spelling mistakes haha).
+
+----------
+INTERNET IS A POINT
+“The main feature of the Internet is that It is a space of “synchronization” on a worldwide scale.” 
+
+--
+“Internet is unique in that it is the first and only common space shared worldwide.”
+
+--
+“…the strength of the Internet is a concentration of power in a single point incorporating the whole world.” 
+  - I feel like internet is kind of like black hole— at least in my understanding of black hole, it’s something that look visually rather small, but contain an infinite amount of mass, just like internet, it’s not even something we can touch, we simply just have an access to it.
+  - I feel like the internet is almost the singularity point for human. 
+
+--
+“On Internet, distance is not relevant. Everything is potentially one click away” 
+
+--
+“On Internet, distance has no relevance, but the notion of space nevertheless remains.” 
+  - When I read this it reminds me of Nolan’s movie Interstellar, where the main character go into the different dimension and able to see our reality in a higher dimension, viewing time in a different (almost 2D like) perspective. 
+  - Is it possible that the internet is is just another dimension(Lower dimension) and we are visiting and leaving our prints on it as a higher dimension being? 
+
+--
+“The search engines control internet architecture. They distribute the space according to users’ needs.” 
+  - I feel like I can describe it like the internet is a quantum system, and the search engine collapse the circus for us to give us a definite answer by us giving it (the search engine) a circus combination (our search words). 
+
+--
+“Although there is only one internet, it is different in each country.” 
+
+--
+“Our aim here is to study this paradox between the unicity and diversity of the Internet.” 
+
+----------
+ONLINE, DISTANCE IS NOT RELEVANT
+“The internet we use is actually a projection of itself though the prism of locality. Internet is a single entity, but with a myriad of territorial projections.” 
+  - Woo I feel like it’s like local internet is a telescope, and we are the one that’s watching though it and we can only see so far in the whole internet because our lens is only that big.
+
+--
+“….Internet adapts itself to suit the realities of each region (FRÉDÉRIC MARTEL SMART: ENQUÊTE SUR LES INTERNETS) ”
+  - I would like to disagree, I think it’s the search engine that’s suiting the internet that’s being presented to us, the internet is always there it’s because what we put into the search engine, the result will come out differently. 
+
+--
+“Internet does not get rid of the traditional geographic boundaries, nor does it dissolve cultural identity, or smooth out linguistic differences: it consecrates them. FRÉDÉRIC MARTEL SMART: ENQUÊTE SUR LES INTERNETS)”
+  - I still disagree with this person, I think if they change the word internet to search engine, or local internet, it will be more precise.” 
+
+--
+“The question now is whether all Web activity will eventually be hosted solely on “the slopes” of a few leading players.” 
+  - I think this kind of action for human is rather predictable, since human tend to grow into a community (a group) to promote a larger growth 
+
+----------
+WHERE IS INTERNET 
+--
+“Data does not just disappear into thin air; they are transmitted via optic fiber cables, connected to Internet boxes, first to the city data center, then to the regional Internet eXchange Point that passes on the information.” 
+  - Is there like an ultimate server that is hosting everything? Or is the internet is linked between different regional server. So I have a question, if there’s no more electricity in the world, and only I can access the internet, will I not able to do it? Since now all the server is down. (I think so?)”
+
+--
+“In order to exist, cyberspace needs equipment and a concrete infrastructure in terrestrial space. With this physical equipment, internet and cyberspace remain solidly anchored in geographical space. The internet is a cirtual network built into physical reality. It’s a could that put down roots into concrete. (JÉRÉMY ROBINE KAVÉ SALAMATIAN HÉRODOTE. CYBERESPACE : ENJEUX GÉOPOLITIQUES PEUT-ON PENSERUNE CYBERGÉOGRAPHIE ? )” 
+  - Then internet does have a physical host, that’s kinda boring. But I can still imagine it as how the actual host is our bridge from using our device to access this reality
+
+----------
+THE WEB IS A FRAMED SPACE 
+“Looking at Internet is like looking at a landscape through a window; we see a framed part of the whole view. In the case of the landscape, we can leave the room and see the whole stretch. However, this is not true for the Internet which only exists within a frame.”
+  - This is what I was talking about! The looking through a telescope thing! Jinx! (I think my website can start from needing the user to “turn on” the light 
+  - And as a photography enthusiast, this reminds me of a histogram, the wave of histogram of a picture determine how a picture’s light and dark looks like, and that’s kind of like how we see the internet. Like what amount of histogram are we seeing. 
+
+----------
+THE WEB SLOPE
+“When browsing online, we go from link to link, our movements propelled by a force that compels us to wander from page to page.” 
+
+--
+“Today, however, the slope is much steeper and we slide almost systematically toward the same services.” 
+  - Nowadays people is getting guided by the algorithm in the website that they are watching (for example, YouTube, as you click on one video and watch it for a while, YouTube will think you like those type and start to recommend you with those type of videos)
+
+----------
+A SPACE THAT CAN TRACE
+“All our movement are mapped out on the Web’s surface: our journeys, daily traveling and domestic activities, etc. Being on Internet means being traceable.” 
+  - That’s interesting, this reminds me of how if one day I become a politician, some stuff that I said on internet will be use against me, once I said it, it will leave a print on it. 
+
+----------
+THE POROUS SURFACE OF INTERNET
+“When we broke the Internet, we automatically generate metadata. This type of data traces our online behavior patterns…” 
+
+--
+“On the free Internet, we are not the clients but the products; we pay for online services by letting our digital personality be absorbed through the surface of the Internet.” 
+  ⁃	For this quote, I have a thought of letting my website to track how long the user have stayed on a page or how many times they have pressed a button? (How can I do this? I know it’s possible but how can I code this?)
+
+----------
+A POPULATED SPACE 
+“The Web is a space that is full of activities. Search engines launch Web Crawlers to discover non-indexed Internet sites.” 
+  - I might can have a “going deeper into the internet” and just have it connect to some random site to show how big the internet is 
+
+----------
+FRONTIERS AND DIVIDED TERRITORIES 
+“…whole Apple connects user automatically to Google.”
+  - No? I thought it’s safari???? They dont have google as default??? 
+
+----------
+INTERNET IS A DUMB NETWORK
+“The physical network of Internet functions according to the end-to-end network borders”
+
+--
+“All the computers located in the middle of the network that transmit information excite simple tasks only.”
+
+----------
+AN ARCHITECURAL COLLAGE 
+“On several levels, Internet architecture functions as an assembly of distinct parts.” 
+

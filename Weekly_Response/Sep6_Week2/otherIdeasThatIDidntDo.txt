@@ -1,0 +1,30 @@
+Some ideas that I wanted to do but didn't do it because 
+    1. Too much work or 
+    2. I have no idea how to do it
+
+IDEA ONE:
+- Require user to "switch on" the website 
+    -> start from a switch saying turn on 
+    -> before switch on, it's all black
+    -> after switch -> can be able to see eveyrthing 
+
+IDEA TWO:
+- Have links to different searching engine 
+    -> but might bring people to different regin's engine (opens in seperate page)
+        -> EX: click on Yahoo might bring you to Yahoo uk or Yahoo jp etc. 
+
+- Quote: “Although there is only one internet, it is different in each country.” 
+
+IDEA THREE:
+- The user is being track 
+    -> there's a place where the user will be able to see how they are being tracked 
+    -> they can see how many times they have clicked on website 
+
+
+IDEA FOUR:
+- The user is able to see what quote of where I got my idea from (direct quote from the webpage)
+
+IDEA FIVE:
+- a button that can being the user to a randon website (or search engin)
+    -> how is this possible? using API??
+
