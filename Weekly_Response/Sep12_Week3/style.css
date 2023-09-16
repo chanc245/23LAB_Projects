@@ -1,0 +1,122 @@
+/* P5js CANVAS */
+canvas {
+  /* left: calc(50% - 200px);
+  top: calc(50vh - 200px); */
+  justify-content: center;
+  align-items: center;
+
+  position: relative;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Monospace, Helvetica, sans-serif;
+}
+
+p {
+  padding: 20px;
+  color: #111111;
+  text-align: center;
+  font-size: 20px;
+  z-index: 2;
+}
+
+h1 {
+  font-family: Monospace, Helvetica, sans-serif;
+  color: #111111;
+  text-align: center;
+  font-size: 50px;
+  z-index: 2;
+}
+
+/* Navagator arrangement */
+/* .buttons {
+  width: 100%;
+  justify-content: center;
+  z-index: 2;
+} */
+
+.button {
+  background-color: #eeeeee;
+  color: darkgray;
+
+  border: none;
+  padding: 10px 24px;
+
+  text-align: center;
+  text-decoration: none;
+  font-family: Monospace, Helvetica, sans-serif;
+
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+
+  transition-duration: 0.4s;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.button-container button {
+  margin: 0 10px;
+  /* add some margin between the buttons */
+}
+
+.button:hover {
+  background-color: #ffffff;
+}
+
+ul {
+  width: 100%;
+  margin: 0%;
+  list-style: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+  justify-content: center;
+  /* z-index: 2; */
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+li a {
+  font-family: Monospace, Helvetica, sans-serif;
+  display: block;
+  color: #111111;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.5s;
+  border-radius: 12px;
+}
+
+li a:hover {
+  transition: 0.5s;
+  background-color: white;
+}
+
+button {
+  font-family: Monospace, Helvetica, sans-serif;
+  display: flex;
+  /* position: absolute; */
+}
+
+#nava {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* margin: 0; */
+  transform: translate(-50%, -50%);
+
+  /* font-size: 20px; */
+  text-align: center;
+  font-family: Monospace, Helvetica, sans-serif;
+}
