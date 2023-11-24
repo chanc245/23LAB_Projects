@@ -57,22 +57,24 @@ body {
 }
 
 .column.right {
-  /* background-color: rgb(240, 255, 249); */
-  --s: 100px;
-  /* control the size */
+  background-color: rgb(240, 255, 249);
 
+  /* 
+  --s: 100px;
   --_g: , #0000 60%, rgb(240, 255, 249) 0;
   background:
     linear-gradient(-45deg var(--_g)),
     linear-gradient(45deg var(--_g)) 0 calc(var(--s)/2) rgba(231, 247, 240, 0.827);
-  background-size: var(--s) var(--s);
+  background-size: var(--s) var(--s); 
+  */
 
 }
 
 .column.mid {
-  /* background-color: AliceBlue; */
+  background-color: AliceBlue;
+
+  /*  
   --s: 60px;
-  /* control the size */
   --c1: AliceBlue;
   --c2: rgba(227, 239, 248, 0.822);
 
@@ -80,19 +82,20 @@ body {
     repeating-conic-gradient(var(--c1) 0 25%, #0000 0 50%) 0 0/calc(4*var(--s)) calc(2*var(--s)),
     conic-gradient(#0000 50%, var(--c2) 0) calc(var(--s)/2) 0/calc(2*var(--s)) 1%,
     radial-gradient(var(--c2) 70%, var(--c1) 72%) 0 0/var(--s) var(--s)
+     */
 }
 
 .column.left {
-  /* background-color: rgb(255, 240, 255); */
+  background-color: rgb(255, 240, 255);
 
+  /* 
   --s: 160px;
-  /* control the size */
-
   --c: rgb(255, 240, 255) 0 60deg, rgba(251, 238, 251, 0.621) 0 50%;
   background:
     repeating-conic-gradient(from -15deg, var(--c)) calc(var(--s)/2) calc(var(--s)/2),
     repeating-conic-gradient(from 15deg, var(--c)) rgb(216, 202, 216);
-  background-size: var(--s) var(--s)
+  background-size: var(--s) var(--s) 
+  */
 }
 
 h1 {
